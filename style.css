@@ -149,27 +149,30 @@ header{
 footer h2{
     text-align:end;
     position: absolute;
-    right: 100px;
+    right: 35px;
     top: 62px;
 }
 .rrr{
     text-align:end;
     position: absolute;
-    right: 100px;
+    right: 35px;
     top: 110px;
 }
 .rr{
     text-align:end;
     position: absolute;
-    right: 100px;
+    right: 35px;
     top: 135px;
 }
 .rf{
     text-align:end;
     position: absolute;
-    right: 100px;
+    right: 35px;
     top: 160px;
 }
+
+
+
 
 
 
