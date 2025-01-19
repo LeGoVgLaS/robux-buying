@@ -1,0 +1,148 @@
+h6{
+    padding: 10px;
+    font-size: 8px;
+    color:rgb(151, 151, 152);
+    position: absolute;
+    right: 15px;
+    top: 800px;
+
+}
+
+main h2{text-align: center;
+font-family: cursive;
+
+}
+body{
+    background-color: rgb(240, 240, 240);
+}
+main{
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid rgb(151, 151, 152);
+    border-radius: 15px;
+    position: relative;
+}
+
+
+
+.p1{color: green;
+
+}
+body h2{
+    text-align: center;
+    font-family: cursive;
+}
+main i{
+    font-family: cursive;
+}
+.r1{font-size: 20px;
+    padding: 5px;
+    border: 1px solid rgb(151, 151, 152);
+    border-radius: 5px;
+    text-decoration: none;
+    color:black;
+    position: absolute;
+    right: 15px;
+    top: 60px;
+
+}
+.icons{
+  width: 20px; 
+  height: 20px;
+}
+
+.r2{font-size: 20px;
+    padding: 5px;
+    border: 1px solid rgb(151, 151, 152);
+    border-radius: 5px;
+    text-decoration: none;
+    color:black;
+    position: absolute;
+    right: 15px;
+    top: 105px;
+}
+
+.r3{font-size: 20px;
+    padding: 5px;
+    border: 1px solid rgb(151, 151, 152);
+    border-radius: 5px;
+    text-decoration: none;
+    color:black;
+    position: absolute;
+    right: 15px;
+    top: 146px;
+}
+.r4{font-size: 20px;
+    padding: 5px;
+    border: 1px solid rgb(151, 151, 152);
+    border-radius: 5px;
+    text-decoration: none;
+    color:black;
+    position: absolute;
+    right: 15px;
+    top: 190px;
+}
+.r5{font-size: 20px;
+    padding: 5px;
+    border: 1px solid rgb(151, 151, 152);
+    border-radius: 5px;
+    text-decoration: none;
+    color:black;
+    position: absolute;
+    right: 15px;
+    top: 235px;
+}
+.r6{font-size: 20px;
+    padding: 5px;
+    border: 1px solid rgb(151, 151, 152);
+    border-radius: 5px;
+    text-decoration: none;
+    color:black;
+    position: absolute;
+    right: 15px;
+    top: 275px;
+}
+.buying{
+   position: absolute;
+    right: 75px;
+    top: 20px; 
+}
+footer{
+    padding: 15px;
+    margin: 20px;
+    border: 1px solid rgb(151, 151, 152);
+    border-radius: 15px;
+     position: relative;
+    
+}
+footer h1{
+    font-size: 30px;
+    font-family: cursive;
+
+}
+footer img{
+    width: 35px; 
+  height: 35px;
+}
+footer a{
+    font-size: 20px;
+    padding: 10px;
+    border: 1px solid rgb(151, 151, 152);
+    border-radius: 5px;
+    text-decoration: none;
+    color:white;
+    background-color: rgb(177, 177, 177);
+}
+header img{
+    width: 100px; 
+  height: 25px;
+
+  padding: 5px;
+    border: 1px solid rgb(70, 70, 70);
+    border-radius: 7px;
+}
+header{
+    background-color: rgb(70, 70, 70);
+    padding: 20px;
+}
