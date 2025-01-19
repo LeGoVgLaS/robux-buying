@@ -13,7 +13,7 @@ font-family: cursive;
 
 }
 body{
-    background-color: rgb(240, 240, 240);
+    background-color: rgb(255, 255, 255);
 }
 main{
     font-size: 20px;
@@ -128,11 +128,11 @@ footer img{
 footer a{
     font-size: 20px;
     padding: 10px;
-    border: 1px solid rgb(151, 151, 152);
+    border: 1px solid rgb(70, 70, 70);
     border-radius: 5px;
     text-decoration: none;
     color:white;
-    background-color: rgb(177, 177, 177);
+    background-color: rgb(70, 70, 70);
 }
 header img{
     width: 100px; 
@@ -146,3 +146,30 @@ header{
     background-color: rgb(70, 70, 70);
     padding: 20px;
 }
+footer h2{
+    text-align:end;
+    position: absolute;
+    right: 100px;
+    top: 62px;
+}
+.rrr{
+    text-align:end;
+    position: absolute;
+    right: 100px;
+    top: 110px;
+}
+.rr{
+    text-align:end;
+    position: absolute;
+    right: 100px;
+    top: 135px;
+}
+.rf{
+    text-align:end;
+    position: absolute;
+    right: 100px;
+    top: 160px;
+}
+
+
+
