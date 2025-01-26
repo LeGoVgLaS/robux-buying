@@ -179,7 +179,6 @@ div h3{
   font-family: cursive;
   color:rgb(255, 255, 255);
 }
-
 .my-games{
     display: flex;
     justify-content: center;
@@ -193,11 +192,9 @@ div h3{
     border-radius: 10px;
     background-color: white;
 }
-
 .my-games img{
     width: 300px;
 }
-
 .my-games p {
     padding: 10px;
 }
@@ -210,7 +207,6 @@ div h3{
    color:black;
    font-size: 20px;
 }
-
 .bg{
     position: fixed;
     left: 0;
