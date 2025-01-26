@@ -148,13 +148,13 @@ header img{
 header{
     background-color: rgb(70, 70, 70);
     padding: 20px;
+   
 }
 footer h2{
     text-align:end;
     position: absolute;
     right: 35px;
     top: 62px;
-    color:black;
 }
 .rrr{
     text-align:end;
@@ -213,4 +213,7 @@ div h3{
     top: 0;
     width: 100%;
     z-index: -20000000;
+}
+.hh2{
+    color:black;
 }
