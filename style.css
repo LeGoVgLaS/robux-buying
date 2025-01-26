@@ -154,6 +154,7 @@ footer h2{
     position: absolute;
     right: 35px;
     top: 62px;
+    color:black;
 }
 .rrr{
     text-align:end;
@@ -178,6 +179,7 @@ div h3{
   font-family: cursive;
   color:rgb(255, 255, 255);
 }
+
 .my-games{
     display: flex;
     justify-content: center;
@@ -216,11 +218,3 @@ div h3{
     width: 100%;
     z-index: -20000000;
 }
-
-
-
-
-
-
-
-
